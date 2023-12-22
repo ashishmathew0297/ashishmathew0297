@@ -5,10 +5,10 @@
 - Interested in Mathematics and High Performance Computing
 
 <a href="https://github.com/ashishmathew0297">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ashishmathew0297&hide_rank=true&hide=prs,issues,contribs&show_icons=true&theme=synthwave" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ashishmathew0297&hide_rank=true&hide=prs,issues,contribs&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/ashishmathew0297">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmathew0297&layout=donut&theme=synthwave" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmathew0297&layout=donut&theme=synthwave" />
 </a>
 <!--
 **ashishmathew0297/ashishmathew0297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
