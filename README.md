@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Ashish
 
+- I'm highly interested in full stack web development, deep learning and art 
 - Pursuing an MS in Data Science at [University of Massachusetts Dartmouth](https://www.umassd.edu/programs/data-science-ms/)
-- Currently studying image manipulation and error diffusion algorithms
-- Interested in Mathematics and High Performance Computing
 
 ## My Skills
 
