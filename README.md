@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ashishmathew0297">
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash,js,typescript,html,css,angular,django,vscode,neovim,raspberrypi&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,bash,typescript,angular,django,vscode,cpp,raspberrypi&perline=6" />
   </a>
 </p>
 
